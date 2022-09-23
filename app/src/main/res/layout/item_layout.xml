@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextView
+
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/textforrecyclerview"
+    android:layout_width="25dp"
+    android:layout_height="25dp"
+    android:background="@drawable/rvitembackground"
+    tools:text="1"
+    android:layout_margin="5dp"
+    android:gravity="center"
+    android:textStyle="bold"
+    android:textColor="@color/black"/>
